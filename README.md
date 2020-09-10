@@ -1,1 +1,1 @@
-# genetic-algorithm-for-mathematical-equality-
+Genetic Algorithm for Solving Simple Mathematical Equality Problem using python
